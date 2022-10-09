@@ -1,0 +1,27 @@
+{
+  "name": "nstop",
+  "version": "1.0.0",
+  "description": "Carpool Web",
+  "main": "index.js",
+  "scripts": {
+    "devStart":"nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harshsinha00/nStop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harshsinha00/nStop/issues"
+  },
+  "homepage": "https://github.com/Harshsinha00/nStop#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20"
+  }
+}
